@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security reports
+    url: https://github.com/microgridtechsol/MCP_Server_OpenEMR/security/policy
+    about: Please report security issues privately.
+  - name: Contact Microgrid Inc
+    url: mailto:info@microgridtechsol.com
+    about: For business inquiries or direct support.
